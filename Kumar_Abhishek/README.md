@@ -1,16 +1,18 @@
+# ACA-FSWD-2021 
 ```
-Name-**Kumar Abhishek**
-Roll No.-**200531**
+Name: Kumar Abhishek
+Roll: 200531
 ```
-Repository Link- [ACA-FSWD-2021](https://github.com/kabhishek20/ACA-FSWD-2021)
----
-**Assignment-1**
-I learnt various commands of **Command prompt** and understood the working of **git and github**. Got to know about various web terminology.
----
+Repo link: [ACA-FSWD-2021](https://github.com/kabhishek20/ACA-FSWD-2021)
 
-**Assignment-2**
-This week I learnt **HTML and CSS** . I created a personal website using these.
-Link to the website- [Personal-Website](https://kabhishek20.github.io/ACA-FSWD-2021/)
+---
+### Progress:
 
-**link for the github repository-https://github.com/sahilb2002/aca_fswd**
+**Week 1 &#8594;** I got to know about various web terminology an commands used in Command Prompt. Also got to learn how to work on github.
+
+---
+**Week 2 &#8594;** This week I had learnt HTML and CSS. I have made a personal website using these .
+
+Website Link: [Personal-Website](https://kabhishek20.github.io/ACA-FSWD-2021/)
+
 ---
