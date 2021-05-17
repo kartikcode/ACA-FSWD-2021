@@ -9,7 +9,8 @@ https://github.com/ssabari23/-ACA-FSWD-2021.git
 
 
 
-### Assignment 2.0: learned about HTML and CSS. And using it designed a personal webpage.
+### Assignment 2.0: 
+Learned about HTML and CSS. And using it designed a personal webpage.
 
 Link to personal website repo is:
 https://github.com/ssabari23/ssabari23.github.io.git
